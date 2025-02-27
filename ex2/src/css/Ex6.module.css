@@ -1,0 +1,17 @@
+.m_list{
+    list-style: none;
+}
+.m_list li{
+    display: inline-block;
+    width: 150px;
+
+}
+.table{
+    width: 400px;
+    margin: 10px auto;
+    border-collapse: collapse;
+
+}
+.table th, .table td{
+    border: 1px solid blcak;
+}
