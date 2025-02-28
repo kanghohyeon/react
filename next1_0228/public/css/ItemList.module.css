@@ -1,0 +1,26 @@
+
+.img_item{
+    display: block;
+    margin: 0 auto;
+}
+.title_item{
+    width: 160px;
+    margin: 10px auto;
+    text-overflow: ellipsis;
+}
+.price_item{
+    font-size: 17px;
+    color: #00bcd4;
+    font-weight: bold;
+    text-align: center;
+}
+.txt_info{
+    display: block;
+    margin-bottom: 10px;
+    color: #999;
+    text-align: center;
+}
+.wrap{
+    padding-bottom: 20px;
+    text-align: center;
+}
